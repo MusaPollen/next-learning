@@ -56,3 +56,6 @@ Be cautious when setting the execution policy to Unrestricted, as it could allow
 You can always revert to a more restrictive policy later by running Set-ExecutionPolicy Restricted.
 Let me know if this resolves the issue or if you run into any further problems!
 ## ##########################################################################################################################################################
+
+
+# starting akash course now. learn with sumit.
